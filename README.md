@@ -1,9 +1,19 @@
 ## Hi there 👋
-
+ <!
 I’m a product-minded Data Scientist & AI Systems Engineer with a passion for building technology that bridges user needs, data-driven insights, and societal impact. Currently completing my B.S. in Informatics (Data Science concentration) at UMass Amherst (2021–2025) and enrolled in the M.S. in Data Analytics and Computational Social Science (DACSS) starting Fall 2026.
 
 My work spans full-stack development, machine learning, AI integration, and hardware systems, with projects ranging from large-scale political finance analysis to interactive AI-powered learning platforms. Whether it’s designing a low-latency, therapy-focused AI chatbot or crafting a data visualization tool for music lovers, I focus on solutions that are technically rigorous, user-centered, and socially meaningful.
--->
+
+Current Focus
+
+Building AI systems that support human well-being and decision-making
+
+Exploring dexterous manipulation & embodied AI in research contexts
+
+Advancing my skills in data analytics, visualization, and LLM-powered applications
+
+Applying interdisciplinary methods from computational social science to real-world challenges
+ -->
 ## 🧩 Tech Stack Snapshot
 <p>
   <!-- Languages -->
