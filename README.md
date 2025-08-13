@@ -4,7 +4,7 @@ I’m a product-minded Data Scientist & AI Systems Engineer with a passion for b
 
 My work spans full-stack development, machine learning, AI integration, and hardware systems, with projects ranging from large-scale political finance analysis to interactive AI-powered learning platforms. Whether it’s designing a low-latency, therapy-focused AI chatbot or crafting a data visualization tool for music lovers, I focus on solutions that are technically rigorous, user-centered, and socially meaningful.
 
-## Current Focus
+## 💡 Current Focus
 
 Building AI systems that support human well-being and decision-making
 
@@ -13,7 +13,42 @@ Exploring dexterous manipulation & embodied AI in research contexts
 Advancing my skills in data analytics, visualization, and LLM-powered applications
 
 Applying interdisciplinary methods from computational social science to real-world challenges
- -->
+
+## 🛠️ Technical Skills
+
+Languages: Python, R, SQL, Java, JavaScript, TypeScript, HTML/CSS, C++, MATLAB
+Data Science: Pandas, NumPy, Matplotlib, Seaborn, PandasAI, Scikit-learn
+Web Development: React, Node.js, Express.js, D3.js, OAuth 2.0
+AI/ML: OpenAI GPT-3.5, Groq APIs, Neural Networks, Classification Models
+Databases: PostgreSQL, MongoDB, Supabase, Memgraph
+Visualization: Tableau, D3.js, Matplotlib
+Hardware/IoT: Raspberry Pi, Google AIY Voice Kit
+Cloud & DevOps: AWS, Docker, Apache Hadoop
+Other Tools: STT/TTS, Ollama, LaTeX, Microsoft Office 365, Excel
+
+## 🚀 Selected Projects
+
+Spotify Compare – Interactive music data visualization app using D3.js & Spotify API
+
+US Political Campaign Finance Analysis – 10M+ records analyzed; interactive Tableau dashboards
+
+Chatter-AI – GPT-powered adaptive language learning platform (React/TypeScript)
+
+The Income Project – ML classification of census income with 83% accuracy
+
+Therapy-Focused AI Chatbot – Voice-interactive, memory-enabled AI on Raspberry Pi
+
+## 🤝 Leadership & Community
+
+Treasurer, UMass Amherst Data Science Club — Managed $1k+ budget, secured grants, organized workshops & industry talks
+
+Service Director, BXO Fraternity — Led mental health awareness initiatives & volunteer programs
+
+Active in SASA, Ultimate Frisbee, VEX Robotics, Big Brothers Big Sisters
+
+## 🌍 Mission
+
+Technology is most powerful when it serves people. I aim to continue working in the tech sector while advancing human progress—designing AI and data systems that benefit and uplift society, break down barriers to access, and create meaningful impact across diverse communities.
 ## 🧩 Tech Stack Snapshot
 <p>
   <!-- Languages -->
