@@ -4,7 +4,7 @@ I’m a product-minded Data Scientist & AI Systems Engineer with a passion for b
 
 My work spans full-stack development, machine learning, AI integration, and hardware systems, with projects ranging from large-scale political finance analysis to interactive AI-powered learning platforms. Whether it’s designing a low-latency, therapy-focused AI chatbot or crafting a data visualization tool for music lovers, I focus on solutions that are technically rigorous, user-centered, and socially meaningful.
 
-Current Focus
+## Current Focus
 
 Building AI systems that support human well-being and decision-making
 
