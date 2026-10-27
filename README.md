@@ -4,11 +4,11 @@ I build AI systems around **natural interaction and local inference**. My work s
 
 ## What I'm building
 
-### [Artemis — voice on a personal device](https://github.com/Devansh-Jain1/EdgePersona)
+### [Artemis — voice on a personal device](https://github.com/Devansh-Jain1/Artemis)
 
 An ongoing project that began with a Raspberry Pi and Google AIY Voice Kit in 2025 and grew into a native iPhone assistant. The phone prototype brings speech recognition, language-model inference, speech synthesis, and learned turn-taking onto the device, including listening during replies and interrupting speech.
 
-[Project overview, architecture, and measured results →](https://github.com/Devansh-Jain1/EdgePersona#readme)
+[Project overview, architecture, and measured results →](https://github.com/Devansh-Jain1/Artemis#readme)
 
 ## Other work
 
